@@ -1,0 +1,25 @@
+{
+  "name": "myfirstbot",
+  "version": "1.0.0",
+  "description": "first ever bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "console.log(\"yes\")"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Xenilae/TelegramBot.git"
+  },
+  "keywords": [
+    "1111"
+  ],
+  "author": "Xenilae",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Xenilae/TelegramBot/issues"
+  },
+  "homepage": "https://github.com/Xenilae/TelegramBot#readme",
+  "dependencies": {
+    "telegraf": "^4.8.6"
+  }
+}
